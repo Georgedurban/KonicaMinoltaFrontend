@@ -13,7 +13,7 @@ Your mission is to rewrite the javascript that is provided in index.html file wi
 We love clean code, oop and solid. See how you test your code will be a plus.
 You have one week to complete the challenge
 
-When you complete the challenge you have to zip the project and send it to this email account: mailTo:development@konicaminolta.es 
+When you complete the challenge you have to zip the project and send it to this email account: <a href="mailto:development@konicaminolta.es">Development</a> 
 Please in the subject of the mail send also your full name: example: Konica spain - frontend - Your Name and first surname
 
 
